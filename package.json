@@ -1,0 +1,19 @@
+{
+  "name": "canvas-html-uploader",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "main": "make4ht-content-server.js",
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "fast-glob": "^3.3.2",
+    "jsdom": "^24.0.0",
+    "juice": "^10.0.0",
+    "mime-types": "^2.1.35"
+  },
+  "scripts": {
+    "start": "node make4ht-content-server.js ."
+  }
+}
