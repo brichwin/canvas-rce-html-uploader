@@ -1,4 +1,4 @@
-# Canvas HTML Uploader (make4ht)
+# Canvas HTML Uploader (designed for uploading make4ht content)
 
 Tool for inserting make4ht-generated HTML into Canvas Pages using a local server + bookmarklet.
 
